@@ -48,14 +48,6 @@ section ul li {
   transition: 0.2s;
 }
 
-code {
-  background: #3a3a3a;   /* darker card bg */
-  border-radius: 5px;
-  padding: 1rem;
-  margin: 0.5rem 0;
-  transition: 0.2s;
-}
-
 section ul li a {
   display: block;             /* fills the whole card */
   text-decoration: none;
@@ -71,4 +63,5 @@ section ul li a:hover {
   color: #ff9800;             /* orange text */
   transform: translateY(-3px);
   transition: 0.2s;
+
 }
